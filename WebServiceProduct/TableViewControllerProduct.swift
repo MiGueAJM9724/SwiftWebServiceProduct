@@ -9,7 +9,8 @@
 import UIKit
 
 class TableViewControllerProduct: UITableViewController {
-
+    @IBOutlet var tvctable_product: UITableView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

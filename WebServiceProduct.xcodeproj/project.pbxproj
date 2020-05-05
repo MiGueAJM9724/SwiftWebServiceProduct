@@ -15,6 +15,8 @@
 		9F6F2B13246106B000F35386 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F6F2B11246106B000F35386 /* LaunchScreen.storyboard */; };
 		9F6F2B1E246106B000F35386 /* WebServiceProductTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6F2B1D246106B000F35386 /* WebServiceProductTests.swift */; };
 		9F6F2B29246106B100F35386 /* WebServiceProductUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6F2B28246106B100F35386 /* WebServiceProductUITests.swift */; };
+		9F6F2B3724610B0600F35386 /* TableViewControllerProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6F2B3624610B0600F35386 /* TableViewControllerProduct.swift */; };
+		9F6F2B3924610B1A00F35386 /* TableViewCellProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6F2B3824610B1A00F35386 /* TableViewCellProduct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		9F6F2B24246106B100F35386 /* WebServiceProductUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebServiceProductUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F6F2B28246106B100F35386 /* WebServiceProductUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebServiceProductUITests.swift; sourceTree = "<group>"; };
 		9F6F2B2A246106B100F35386 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F6F2B3624610B0600F35386 /* TableViewControllerProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewControllerProduct.swift; sourceTree = "<group>"; };
+		9F6F2B3824610B1A00F35386 /* TableViewCellProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellProduct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				9F6F2B0F246106B000F35386 /* Assets.xcassets */,
 				9F6F2B11246106B000F35386 /* LaunchScreen.storyboard */,
 				9F6F2B14246106B000F35386 /* Info.plist */,
+				9F6F2B3624610B0600F35386 /* TableViewControllerProduct.swift */,
+				9F6F2B3824610B1A00F35386 /* TableViewCellProduct.swift */,
 			);
 			path = WebServiceProduct;
 			sourceTree = "<group>";
@@ -260,7 +266,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F6F2B0B246106AD00F35386 /* ViewController.swift in Sources */,
+				9F6F2B3924610B1A00F35386 /* TableViewCellProduct.swift in Sources */,
 				9F6F2B07246106AD00F35386 /* AppDelegate.swift in Sources */,
+				9F6F2B3724610B0600F35386 /* TableViewControllerProduct.swift in Sources */,
 				9F6F2B09246106AD00F35386 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
