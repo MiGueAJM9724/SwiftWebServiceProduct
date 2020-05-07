@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52F5F1AD-E49E-41C5-82CF-93B6477D4C68"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72CF3626-886F-4DD3-937A-4B383ADD4C9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebServiceProduct/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "btnAdd_product(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C40FE27-AAF4-4ACA-BB90-ACB557D69181"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebServiceProduct/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "btnAdd_product(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C40FE27-AAF4-4ACA-BB90-ACB557D69181 - e3afb141c7690a82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in WebServiceProduct.ViewController.btnAdd_product(__C.UIButton) -&gt; ()"
+                  moduleName = "WebServiceProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Almacen/Swift/WebServiceProduct/WebServiceProduct/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "7C40FE27-AAF4-4ACA-BB90-ACB557D69181 - e3afb141c7690a82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in WebServiceProduct.ViewController.btnAdd_product(__C.UIButton) -&gt; ()"
+                  moduleName = "WebServiceProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Almacen/Swift/WebServiceProduct/WebServiceProduct/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "177">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67D20FF9-DF89-4F1A-B773-46E82EECD3D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebServiceProduct/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "btnAdd_product(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67D20FF9-DF89-4F1A-B773-46E82EECD3D6 - adc61fe154dc2113"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebServiceProduct.ViewController.btnAdd_product(__C.UIButton) -&gt; ()"
+                  moduleName = "WebServiceProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Almacen/Swift/WebServiceProduct/WebServiceProduct/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "4440">
+               </Location>
+               <Location
+                  uuid = "67D20FF9-DF89-4F1A-B773-46E82EECD3D6 - bee3b8f27115b60c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in WebServiceProduct.ViewController.btnAdd_product(__C.UIButton) -&gt; ()"
+                  moduleName = "WebServiceProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Almacen/Swift/WebServiceProduct/WebServiceProduct/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B7798E1-ACDA-4759-A1DD-481463CA6810"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WebServiceProduct/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "btnLoad_product(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B7798E1-ACDA-4759-A1DD-481463CA6810 - f389f27bedc07693"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WebServiceProduct.ViewController.btnLoad_product(__C.UIButton) -&gt; ()"
+                  moduleName = "WebServiceProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Almacen/Swift/WebServiceProduct/WebServiceProduct/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "355">
+               </Location>
+               <Location
+                  uuid = "6B7798E1-ACDA-4759-A1DD-481463CA6810 - 37ce4e63435915ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in WebServiceProduct.ViewController.btnLoad_product(__C.UIButton) -&gt; ()"
+                  moduleName = "WebServiceProduct"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Almacen/Swift/WebServiceProduct/WebServiceProduct/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
